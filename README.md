@@ -66,3 +66,10 @@ The following areas must be explored and documented within the `notebooks/` dire
   * **Branching:** All development work must be conducted on the **`task-1`** branch.
   * **Commits:** Commit frequently (at least **three times a day**) with clear and descriptive commit messages explaining *what* was done and *why*.
   * **CI/CD:** The `.github/workflows/unittests.yml` file is set up to automatically run tests and checks upon push, ensuring code quality is maintained.
+# Nova Financial Solutions - Week 01
+
+## Overview
+
+This repository contains notebooks and Python modules for **stock market analysis**, **technical indicators**, and **portfolio optimization**. It includes analysis for multiple stocks and provides visualizations and quantitative insights to support investment decision-making.  
+
+
