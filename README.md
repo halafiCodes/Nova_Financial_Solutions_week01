@@ -1,17 +1,7 @@
-# Predicting Price Moves with News Sentiment
+# Nova Financial Solutions - Week 01
 
-This project analyzes how stock prices move by combining technical indicators and news sentiment.  
-This repository includes:
-- Data collection  
-- Exploratory Data Analysis (EDA)  
-- Technical analysis  
-- Sentiment analysis  
-- Final model & report  
+## Overview
 
-## Folder Structure
-- `.vscode/` – VS Code settings  
-- `.github/workflows/` – GitHub Actions automated testing  
-- `src/` – main Python source code  
-- `notebooks/` – EDA and experiments  
-- `scripts/` – helper scripts  
-- `tests/` – unit tests  
+This repository contains notebooks and Python modules for **stock market analysis**, **technical indicators**, and **portfolio optimization**. It includes analysis for multiple stocks and provides visualizations and quantitative insights to support investment decision-making.  
+
+
